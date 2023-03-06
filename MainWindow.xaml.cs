@@ -27,7 +27,7 @@ namespace WpfApp2
 
         private void btnGo_Click(object sender, RoutedEventArgs e)
         {
-            txtShow.Text = "Hello World! 你好!"; //可以直接複製貼過去
+            txtShow.Text = "Hello World! 你好!"; //直接複製貼過去
         }
     }
 }
